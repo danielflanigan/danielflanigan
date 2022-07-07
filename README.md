@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Daniel Flanigan
+
+I'm a data scientist and Python developer changing careers after twelve years of experience in experimental physics research.
+
+
 
 <!--
 **danielflanigan/danielflanigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
