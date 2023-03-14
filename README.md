@@ -1,8 +1,8 @@
 ### Hi, I'm Daniel Flanigan
 
-I'm a data scientist and Python developer changing careers after twelve years of experience in experimental physics research.
+I recently changed careers to software engineering after twelve years of experience in experimental physics research.
 
-In graduate school I developed kinetic inductance detectors to be used as microwave pixels for astrophyics experiments. As a postdoc, I first developed superconducting parametric amplifiers for quantum physics experiments, then I studied the properties of disordered superconductors with high kinetic inductance. Here are a few packages developed during this research.
+In graduate school I developed kinetic inductance detectors to be used as microwave pixels for astrophyics experiments. As a postdoc, I first developed superconducting parametric amplifiers for quantum physics experiments, then I studied the properties of disordered superconductors with high kinetic inductance. Here are a few software packages developed during this research.
 
 [resonator](https://www.github.com/danielflanigan/resonator) is a library for fitting scattering parameter data from superconducting resonators.
 
